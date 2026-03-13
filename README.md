@@ -33,6 +33,7 @@ This solution adheres to Clean Code principles with a strong emphasis on reusabi
 
 ### 1. Prerequisites
 - **Python** (version 3.8+ recommended) installed.
+- **Allure Report** (https://allurereport.org/docs/v3/install/) installed on your machine
 
 ### 2. Installation
 Open a terminal inside the project directory and run:
@@ -81,7 +82,6 @@ To view the generated HTML report:
 ```bash
 allure serve allure-results
 ```
-*(Note: viewing the report requires the [Allure Report](https://allurereport.org/docs/v3/install/) installed on your machine)*
 
 ## 🧪 Test Coverage
 1. **Challenge 1 (UI Testing)**: 
